@@ -14,6 +14,7 @@ TARGET_BOOT_ANIMATION_RES := 1080
 # Gapps
 TARGET_GAPPS_ARCH := arm64
 IS_PHONE := true
+WITH_GAPPS=true
 
 # FOD Animations & Face Unlock
 EXTRA_FOD_ANIMATIONS := true
